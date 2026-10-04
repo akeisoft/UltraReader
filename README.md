@@ -242,7 +242,7 @@ flowchart LR
 
 ## ⬇️ Install
 
-1. Download **[UltraReader.dmg](https://github.com/akeisoft/UltraReader/releases/latest/download/UltraReader.dmg)**.
+1. Download **[UltraReader.dmg](https://github.com/akeisoft/UltraReader/releases/download/1.4/UltraReader-1.4.dmg)**.
 2. Open it and drag **UltraReader** onto **Applications**.
 3. Launch it — the welcome window shows recent documents and everything it opens.
 
