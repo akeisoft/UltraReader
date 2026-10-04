@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/akeisoft/UltraReader/releases/latest/download/UltraReader.dmg"><b>⬇&nbsp;&nbsp;Download for Mac</b></a>
+  <a href="https://github.com/akeisoft/UltraReader/releases/download/1.4/UltraReader-1.4.dmg"><b>⬇&nbsp;&nbsp;Download for Mac</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/akeisoft/UltraReader/releases">All releases</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
